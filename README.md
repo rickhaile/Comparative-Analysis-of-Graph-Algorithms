@@ -1,4 +1,4 @@
-# 🕸️ Social Network Analysis (SNA) & Community Detection
+🕸️ Social Network Analysis (SNA) & Community Detection
 
 ### 📊 Project Overview
 This project utilizes **Graph Theory** and **Statistical Analysis (R)** to uncover structural patterns within the *AddHealth* adolescent friendship network.
